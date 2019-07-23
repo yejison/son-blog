@@ -1,0 +1,1 @@
+web: gunicorn mutsa.wsgi --log-file -
