@@ -17,15 +17,3 @@ def main():
     execute_from_command_line(sys.argv)
 
 
-
-if __name__ == '__main__':
-    main()
-
-    ### Django ###
-*.log
-*.pot
-*.pyc
-__pycache__/
-local_settings.py
-db.sqlite3
-media
